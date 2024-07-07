@@ -1,0 +1,20 @@
+ 
+ body{
+    margin: 0px;
+    padding: 0px;
+ }
+ .logoimg{
+    height:100px;
+    width:100px;
+ }
+ .formcontrol{
+     position: relative;
+     top: 15px;
+ }
+ .formcontrol label{
+    position: absolute;
+    top: -12px;
+    background-color: white;
+    left: 10px;
+    padding: 0 6px ;
+}
